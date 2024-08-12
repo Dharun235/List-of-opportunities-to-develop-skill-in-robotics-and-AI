@@ -37,6 +37,6 @@ We welcome contributions from everyone! If you have information about an opportu
    ```bash
     git commit -m "Add new opportunity: [Opportunity Name]"
 5. Push to Branch: Push your changes to your forked repository:
-```bash
-    git push origin feature/YourFeatureName
+   ```bash
+       git push origin feature/YourFeatureName
 6. Open a Pull Request: Submit a pull request to the main repository for review.
