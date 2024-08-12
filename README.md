@@ -1,6 +1,6 @@
 # Repository for listing out opportunities for developing skills in AI and Robotics 
 
-Welcome to the Opportunities Repository! This repository serves as a centralized hub for various opportunities, including internships, open-source contributions, competitions, and other valuable experiences. Whether you're looking to enhance your skills, gain practical experience, or connect with like-minded individuals, this repository aims to help you find the right opportunities. 
+Welcome to the Opportunities Repository! This repository serves as a centralized hub for various opportunities, including internships, open-source contributions, competitions, and other valuable experiences. Whether you're looking to enhance your skills, gain practical experience, or connect with like-minded individuals, this repository aims to help you find the right opportunities in fields of robotics and AI. 
 
 ## Table of Contents
 
