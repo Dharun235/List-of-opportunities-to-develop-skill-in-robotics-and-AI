@@ -8,7 +8,7 @@ Welcome to the Opportunities Repository! This repository serves as a centralized
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
 - [License](https://github.com/Dharun235/List-of-opportunities-to-develop-skill-in-robotics-and-AI/blob/main/LICENSE)
-- [Contact](dharun.official.01@gmail.com)
+- [Contact](https://www.linkedin.com/in/dharun-kumar20/)
 
 ## Features
 
