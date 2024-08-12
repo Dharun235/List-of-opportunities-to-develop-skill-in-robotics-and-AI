@@ -7,7 +7,7 @@ Welcome to the Opportunities Repository! This repository serves as a centralized
 - [Features](#features)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
-- [License](#license)
+- [License](#LICENSE)
 - [Contact](#contact)
 
 ## Features
